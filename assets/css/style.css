@@ -3542,7 +3542,7 @@ Counter One
 
 .counter-one__single-inner .content-box .left-text h2 {
   position: relative;
-  color: var(--thm-black);
+  color: #021827;
   font-size: 80px;
   line-height: 0.8em;
   font-weight: 700;
@@ -10753,7 +10753,7 @@ Faq Page
 }
 
 .tabs-content__inner .accordion-box .block .acc-content p {
-  max-width: 580px;
+  max-width: 800px;
   width: 100%;
 }
 
