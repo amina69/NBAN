@@ -929,7 +929,7 @@ img {
   font-size: 70px;
   line-height: 70px;
   font-weight: 600;
-  letter-spacing: 15px;
+  letter-spacing: 4px;
   text-transform: uppercase;
   -webkit-text-stroke-width: 1px;
   -webkit-text-stroke-color: rgba(255, 255, 255, 0.30);
@@ -2751,7 +2751,7 @@ Banner One
 .banner-one__content h2 {
   font-weight: 700;
   font-size: 76px;
-  line-height: 90px;
+  line-height: 80px;
   margin-bottom: 21px;
   color: #ffffff;
   font-family: var(--thm-font-2);
